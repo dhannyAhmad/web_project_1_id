@@ -79,13 +79,15 @@ a {
   right: 0;
 }
 
+.content {
+  position: relative;
+}
+
 .description {
   padding-top: 100px;
   margin: auto;
   position: relative;
-  height: 100vh;
   min-height: 600px;
-  max-height: 756px;
 }
 
 .two-columns {
@@ -113,6 +115,11 @@ a {
   font-weight: normal;
 }
 
+.paragraph {
+  margin: 0;
+  padding-top: 30px;
+}
+
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
@@ -122,6 +129,7 @@ a {
 .digits {
   /* padding-top: 100px; */
   position: relative;
+  padding-top: 100px;
 }
 
 .section-title {

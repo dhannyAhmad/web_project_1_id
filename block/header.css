@@ -58,6 +58,7 @@ a {
   height: 608px;
   position: absolute;
   bottom: 0;
+  right: 0;
   z-index: 1;
 }
 
@@ -69,6 +70,9 @@ a {
   margin-top: 64px;
   position: absolute;
   right: 0;
+}
+
+.header__square-pic_rotation {
   transform: rotate(-15deg);
   animation: loader 20s linear infinite;
 }

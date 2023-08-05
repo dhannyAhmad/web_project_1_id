@@ -1,0 +1,87 @@
+/* kaufman */
+
+.kaufman {
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+}
+
+.section-title_theme_dark {
+  color: white;
+  width: 60%;
+  margin: auto;
+  line-height: 69px;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 90px;
+  position: relative;
+  z-index: 1;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+  width: 60%;
+  margin: auto;
+  line-height: 34px;
+  font-size: 26px;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.table_theme_dark {
+  position: relative;
+  /* width: 1100px; */
+  padding-bottom: 90px;
+  margin: auto;
+  z-index: 1;
+}
+
+/* including elements with key-value modifiers */
+.table__cell_theme_dark {
+  width: 1100px;
+  color: white;
+  margin: auto;
+}
+
+.table__heading_theme_dark {
+  padding-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.table__heading_theme_dark li {
+  list-style-type: none;
+  width: 200px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text_theme_dark {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.table__text_theme_dark li {
+  list-style-type: none;
+  width: 200px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  width: 660px;
+  height: 636px;
+  right: -124px;
+  top: 0;
+  animation: loader 20s linear infinite;
+}

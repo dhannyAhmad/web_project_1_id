@@ -1,0 +1,61 @@
+/* khan */
+
+.khan {
+  position: relative;
+}
+
+.khan_container {
+  width: 80%;
+  margin: auto;
+}
+
+.khan_author {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.khan_title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.khan_quote {
+  width: 790px;
+  padding-top: 50px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.khan_quote-author {
+  padding-top: 36px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.khan_quote-author-subline {
+  padding-top: 10px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.khan_book-container {
+  padding-top: 68px;
+  display: flex;
+}
+
+.khan_book-pic {
+  width: 620px;
+  height: 608px;
+  padding-right: 48px;
+}
+
+.khan_buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}

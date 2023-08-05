@@ -5,12 +5,12 @@
   padding-top: 100px;
 }
 
-.video_iframes {
+.video__iframes {
   display: flex;
   justify-content: center;
   margin-bottom: -60px;
 }
 
-.video_iframe {
+.video__iframe {
   padding: 50px 20px 0 0;
 }

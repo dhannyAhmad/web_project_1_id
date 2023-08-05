@@ -4,7 +4,7 @@
   position: relative;
 }
 
-.resources_logo-zone {
+.resources__logo-zone {
   padding-top: 80px;
   display: flex;
   justify-content: center;
@@ -13,7 +13,7 @@
   padding-bottom: 217px;
 }
 
-.resourcer_logo {
+.resourcer__logo {
   width: 270px;
   height: 38px;
 }

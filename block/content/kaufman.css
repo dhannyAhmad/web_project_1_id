@@ -83,5 +83,8 @@
   height: 636px;
   right: -124px;
   top: 0;
+}
+
+.kaufman__triangle_rotation {
   animation: loader 20s linear infinite;
 }

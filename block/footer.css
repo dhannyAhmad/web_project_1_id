@@ -2,7 +2,6 @@
 .footer {
   min-height: 350px;
   background-color: #000;
-  position: relative;
   margin-top: -60px;
 }
 
@@ -10,7 +9,6 @@
   width: 90%;
   margin: auto;
   padding: 60px 0 40px 0;
-  flex-basis: 711px;
   display: flex;
   justify-content: space-between;
   color: white;
@@ -22,9 +20,10 @@
   display: flex;
 }
 
-.footer__logo_place img {
+.logo_place_footer {
   width: 183px;
   height: 35px;
+  position: inherit;
 }
 
 .footer__author {

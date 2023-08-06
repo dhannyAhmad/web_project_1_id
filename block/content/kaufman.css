@@ -6,7 +6,7 @@
   overflow: hidden;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   color: white;
   width: 60%;
   margin: auto;
@@ -19,7 +19,7 @@
   z-index: 1;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   color: white;
   width: 60%;
   margin: auto;

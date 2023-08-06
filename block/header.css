@@ -10,16 +10,13 @@
   /* parameters for the header section */
 }
 
-.logo {
+.logo_place_header {
+  width: 154px;
+  height: 31px;
   position: absolute;
   top: 30px;
   left: 64px;
   z-index: 1;
-}
-
-.logo_place_header {
-  width: 154px;
-  height: 31px;
 }
 
 .header__title {

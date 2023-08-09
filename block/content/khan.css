@@ -2,11 +2,14 @@
 
 .khan {
   position: relative;
+  background-color: #f2f2f2;
+  margin-top: 100px;
 }
 
 .khan__container {
   width: 80%;
   margin: auto;
+  padding-top: 105px;
 }
 
 .khan__author {

@@ -2,13 +2,14 @@
 
 .video {
   position: relative;
+  z-index: 1;
   padding-top: 100px;
+  margin-bottom: -60px;
 }
 
 .video__iframes {
   display: flex;
   justify-content: center;
-  margin-bottom: -60px;
 }
 
 .video__iframe {

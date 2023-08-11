@@ -3,7 +3,6 @@
 @import url(table/__heading/_theme/table__heading_theme_dark.css);
 @import url(table/__text/_theme/table__text_theme_dark.css);
 @import url(__triangle/kaufman__triangle.css);
-@import url(__triangle/_rotation/kaufman__triangle_rotation.css);
 
 .kaufman {
   background-color: #000;

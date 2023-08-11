@@ -7,21 +7,38 @@
 
 /* header */
 @import url(../block/header/header.css);
+@import url(__square-pic/_rotation/header__square-pic_rotation.css);
 
 /* content */
 @import url(../block/content/content.css);
 @import url(../block/content/description/description.css);
+@import url(two-columns/__span-accent/two-columns__span-accent.css);
+
 @import url(../block/content/techniques/techniques.css);
+@import url(cards/__description/cards__description.css);
+
 @import url(../block/content/video/video.css);
+@import url(__iframe/video__iframe.css);
+
 @import url(../block/content/oakley/oakley.css);
 @import url(../block/content/feynman/feynman.css);
+@import url(__image/feynman__image.css);
+
 @import url(../block/content/digits/digits.css);
+@import url(table/__text/table__text.css);
+
 @import url(../block/content/khan/khan.css);
+@import url(__buy-link/khan__buy-link.css);
+
 @import url(../block/content/kaufman/kaufman.css);
+@import url(__triangle/_rotation/kaufman__triangle_rotation.css);
+
 @import url(../block/content/resources/resources.css);
+@import url(__logo/resources__logo.css);
 
 /* footer */
 @import url(../block/footer/footer.css);
+@import url(__social-icons/footer__social-icons.css);
 
 /* animation */
 @import url(../vendor/loader.css);

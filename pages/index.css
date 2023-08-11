@@ -1,5 +1,9 @@
 /* defaul page */
 @import url(../vendor/page.css);
+@import url(../block/content/section-title/section-title.css);
+@import url(../block/content/section-subtitle/section-subtitle.css);
+@import url(../block/content/section-title/_theme/section-title_theme_dark.css);
+@import url(../block/content/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 /* header */
 @import url(../block/header/header.css);

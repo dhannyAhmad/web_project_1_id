@@ -1,7 +1,3 @@
-@import url(table/table.css);
-@import url(table/__cell/table__cell.css);
-@import url(table/__heading/table__heading.css);
-
 .digits {
   /* padding-top: 100px; */
   position: relative;

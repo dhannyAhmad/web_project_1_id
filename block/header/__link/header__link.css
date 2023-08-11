@@ -1,0 +1,10 @@
+.header__link {
+  position: absolute;
+  bottom: 0;
+  margin-left: 64px;
+  color: #2f80ed;
+}
+
+a {
+  text-decoration: none;
+}

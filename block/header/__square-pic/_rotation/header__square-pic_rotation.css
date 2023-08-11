@@ -1,0 +1,4 @@
+.header__square-pic_rotation {
+  transform: rotate(-15deg);
+  animation: loader 20s linear infinite;
+}

@@ -1,0 +1,11 @@
+@import url(two-columns/two-columns.css);
+@import url(two-columns/__brief/two-columns__brief.css);
+@import url(two-columns/__Main-text/two-columns__main-text.css);
+@import url(two-columns/__span-accent/two-columns__span-accent.css);
+
+/* description */
+.description {
+  margin: auto;
+  position: relative;
+  padding-top: 100px;
+}

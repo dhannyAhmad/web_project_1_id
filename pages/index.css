@@ -1,18 +1,23 @@
 /* defaul page */
 @import url(../vendor/page.css);
 
-/* style content */
-@import url(../block/header.css);
-@import url(../block/content/description.css);
-@import url(../block/content/techniques.css);
-@import url(../block/content/video.css);
-@import url(../block/content/oakley.css);
-@import url(../block/content/feynman.css);
-@import url(../block/content/digits.css);
-@import url(../block/content/khan.css);
-@import url(../block/content/kaufman.css);
-@import url(../block/content/resources.css);
-@import url(../block/footer.css);
+/* header */
+@import url(../block/header/header.css);
+
+/* content */
+@import url(../block/content/content.css);
+@import url(../block/content/description/description.css);
+@import url(../block/content/techniques/techniques.css);
+@import url(../block/content/video/video.css);
+@import url(../block/content/oakley/oakley.css);
+@import url(../block/content/feynman/feynman.css);
+@import url(../block/content/digits/digits.css);
+@import url(../block/content/khan/khan.css);
+@import url(../block/content/kaufman/kaufman.css);
+@import url(../block/content/resources/resources.css);
+
+/* footer */
+@import url(../block/footer/footer.css);
 
 /* animation */
 @import url(../vendor/loader.css);
